@@ -14,5 +14,8 @@ File: dir,	Node: Top	This is the top of the INFO tree
 
 * Menu:
 
+GNU libraries
+* gmp: (gmp).                   GNU Multiple Precision Arithmetic Library.
+
 GNU Packages
 * Make: (make).                 Remake files automatically.

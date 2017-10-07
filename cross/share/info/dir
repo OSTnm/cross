@@ -53,3 +53,7 @@ Software development
 * Gas: (as).                    The GNU assembler.
 * Ld: (ld).                     The GNU linker.
 * gprof: (gprof).               Profiling your program's execution
+
+Software libraries
+* mpfr: (mpfr).                 Multiple Precision Floating-Point Reliable 
+                                  Library.
